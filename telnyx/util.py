@@ -188,6 +188,7 @@ def load_object_classes():
         api_resources.WhatsappMessage.OBJECT_NAME: api_resources.WhatsappMessage,
         api_resources.WhatsappPhoneNumber.OBJECT_NAME: api_resources.WhatsappPhoneNumber,
         api_resources.WirelessDetailRecordsReports.OBJECT_NAME: api_resources.WirelessDetailRecordsReports,
+        api_resources.DLCBrand.OBJECT_NAME: api_resources.DLCBrand,
     }
 
 

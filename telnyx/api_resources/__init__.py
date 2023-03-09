@@ -87,6 +87,7 @@ from telnyx.api_resources.whatsapp_phone_number import WhatsappPhoneNumber
 from telnyx.api_resources.wireless_detail_record_report import (
     WirelessDetailRecordsReports,
 )
+from telnyx.api_resources.dlcbrand import DLCBrand
 
 # flake8: noqa
 
@@ -175,4 +176,5 @@ __all__ = [
     "WhatsappMessage",
     "WhatsappPhoneNumber",
     "WirelessDetailRecordsReports",
+    "DLCBrand",
 ]
